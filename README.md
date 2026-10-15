@@ -2,6 +2,8 @@
 
 Vivid UGC Content Calendar Spreadsheet & Automated Brand CRM & Invoice Ledger Engine
 
+<p align="center"><img src="preview.png" width="85%" style="max-width: 400px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"></p>
+
 > ### 🔑 FAST-TRACK SECURE DOWNLOAD
 > Bypass legacy monthly content creation and project tracking app subscriptions instantly. Access your permanent, offline dark-mode Excel workbook below:
 > 
